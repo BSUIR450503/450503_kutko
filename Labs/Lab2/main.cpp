@@ -11,6 +11,7 @@ int main(int argc, char* argv[])
 #endif
 	} 
 	else 
-		object.InitialProcess(argv[0]);						
+		object.InitialProcess(argv[0]);		
+//just test comment for learn github				
 }
 
